@@ -6,7 +6,7 @@ Infix notation is used in mathematical formulas. Operators are placed inbetween 
 Postfix notation place operators after the operands in a mathematical formula.
   
 ### Examples:
-Infix: 2x^2 + 2x + 5            Postfix: 2 x 2 ^ 3 x + 5 + 
+Infix: 2x^2 + 2x + 5            Postfix: 2 x 2 ^ 2 x + 5 + 
 
 Infix: 3x^3 * 4x - 9             Postfix: 3 x 3 ^ 4 x * 9 - 
 
